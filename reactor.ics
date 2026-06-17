@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+CALSCALE:GREGORIAN
+PRODID:-//Microsoft Reactor//NONSGML Reactor Web//EN
+X-WR-CALNAME:Microsoft Reactor
+BEGIN:VEVENT
+UID:35c173a4-8fc4-4bf4-9183-dc2840662789@Reactor
+SUMMARY:Microsoft Reactor event: Get Certified: (DP-600) Fabric Analytics Engineer Essentials (US/EMEA)
+DTSTAMP:20260617T114106Z
+DTSTART:20260618T150000Z
+DTEND:20260618T160000Z
+LOCATION:https://developer.microsoft.com/en-us/reactor/events/27212/?event_check_in=NPJGBUdsmZ5ZTevbhUWm05EE4uNEkUCU3RJxHX2QLSwbGCFFsF5Axe8TjOrWWBE0JvhLiJcNdvsUJ44Kcrt4pQ%3d%3d
+X-ALT-DESC;FMTTYPE=text/html:<!DOCTYPE HTML PUBLIC \"- //W3C//DTD HTML 3.2 //EN\"><html><body>We look forward to seeing you soon at this Reactor event.<br /><br />Please note that the event start time may appear in the timezone where the event will be hosted.<br /><br /><strong>Start Time:</strong> 2026-06-18 08:30 PM Chennai, Kolkata, Mumbai, New Delhi<br /><strong>Format:</strong> Livestream<br /><br /><strong>Join live Event:</strong><br />Please note the livestream link will be live 10 minutes prior to the start of the event.<br /> <a href="https://developer.microsoft.com/en-us/reactor/events/27212/?event_check_in=NPJGBUdsmZ5ZTevbhUWm05EE4uNEkUCU3RJxHX2QLSwbGCFFsF5Axe8TjOrWWBE0JvhLiJcNdvsUJ44Kcrt4pQ%3d%3d">https://developer.microsoft.com/en-us/reactor/events/27212/?event_check_in=NPJGBUdsmZ5ZTevbhUWm05EE4uNEkUCU3RJxHX2QLSwbGCFFsF5Axe8TjOrWWBE0JvhLiJcNdvsUJ44Kcrt4pQ%3d%3d</a><br /><br />Get Certified: (DP-600) Fabric Analytics Engineer Essentials (US/EMEA)<br /><br />Ready to take on DP-600? Whether you are coming from Power BI, exploring Microsoft Fabric, or starting fresh, this session will help you understand what to focus on and how to get started.&#xA;In this session, we will walk through the key topics covered in the DP-600 exam, including data ingestion, transformation, modeling, visualization, and managing analytics solutions in Microsoft Fabric. You will get a clear view of what is expected and how the pieces fit together.&#xA;We will also share practical guidance on how to approach your learning and where to focus your time. If you want to go deeper, we will point you to on-demand sessions for each topic so you can keep learning at your own pace.&#xA;</body></html>
+DESCRIPTION:We look forward to seeing you soon at this Reactor event. \n\n Please note that the event start time may appear in the timezone where the event will be hosted. \n\n Start Time: 2026-06-18 08:30 PM Chennai, Kolkata, Mumbai, New Delhi \n Format: Livestream \n\n Join live Event: https://developer.microsoft.com/en-us/reactor/events/27212/?event_check_in=NPJGBUdsmZ5ZTevbhUWm05EE4uNEkUCU3RJxHX2QLSwbGCFFsF5Axe8TjOrWWBE0JvhLiJcNdvsUJ44Kcrt4pQ%3d%3d \n\n Get Certified: (DP-600) Fabric Analytics Engineer Essentials (US/EMEA) \n\n Ready to take on DP-600? Whether you are coming from Power BI, exploring Microsoft Fabric, or starting fresh, this session will help you understand what to focus on and how to get started.&#xA;In this session, we will walk through the key topics covered in the DP-600 exam, including data ingestion, transformation, modeling, visualization, and managing analytics solutions in Microsoft Fabric. You will get a clear view of what is expected and how the pieces fit together.&#xA;We will also share practical guidance on how to approach your learning and where to focus your time. If you want to go deeper, we will point you to on-demand sessions for each topic so you can keep learning at your own pace.&#xA;
+BEGIN:VALARM
+TRIGGER:-PT30M
+DESCRIPTION:Reminder
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR
